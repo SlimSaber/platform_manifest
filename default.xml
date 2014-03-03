@@ -453,5 +453,6 @@
 
   <!-- ************** SLIMSABER ************** -->
   <project path="device/sony/togari" name="SlimSaber-togari/android_device_sony_togari" remote="github" revision="cm-11.0"/>
+  <project path="device/sony/common" name="CyanogenMod/android_device_sony_common" remote="cm" revision="cm-11.0"/>
 
 </manifest>

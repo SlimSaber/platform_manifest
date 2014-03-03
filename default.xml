@@ -409,13 +409,13 @@
 
   <!-- New Additions for slim -->
   <project path="vendor/slim" name="SlimSaber/vendor_slim" remote="github" revision="kk4.4" />
-
+  <!--
   <!-- Slim OTA -->
   <project path="packages/apps/SlimCenter" name="SlimSaber/packages_apps_SlimCenter" remote="github" revision="kk4.4" />
 
   <!-- Slim file manager -->
   <project path="packages/apps/SlimFileManager" name="SlimRoms/packages_apps_SlimFileManager" remote="github" revision="kk4.4" />
-
+  -->
   <!-- Power Hal -->
   <project path="hardware/cm" name="SlimRoms/hardware_cm" remote="github" revision="kk4.4" />
 
@@ -426,8 +426,6 @@
   <project path="external/koush/Superuser" name="SlimRoms/Superuser" remote="github" revision="kk4.4" />
   <project path="external/koush/Widgets" name="CyanogenMod/Widgets" remote="github" revision="cm-11.0" />
 
-  <!--CyanogenMod SamsungServiceMode -->
-  <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-11.0" />
 
   <!-- CyanogenMod qrngd -->
   <project path="external/qrngd" name="CyanogenMod/android_external_qrngd" remote="github" revision="cm-11.0" />
@@ -440,8 +438,8 @@
   </project>
 
   <!-- SaberMod toolchain -->
-  <project name="SlimSaber/android_prebuilts_gcc_linux-x86_arm_sabermod-arm-linux-androideabi-4.8" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" remote="github" revision="sm-kk-mr1" />
-  <project name="SlimSaber/android_prebuilts_gcc_linux-x86_arm_sabermod-arm-eabi-4.7" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" remote="github" revision="sm-jb-mr2"/>
+  <project name="SlimSaber/android_prebuilts_gcc_linux-x86_arm_sabermod-arm-linux-androideabi-4.9" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" remote="github" revision="master" />
+  <project name="SlimSaber/android_prebuilts_gcc_linux-x86_arm_sabermod-arm-eabi-4.7" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" remote="github" revision="master"/>
 
   <!-- OmniRom -->
   <project path="packages/apps/Launcher3" name="SlimSaber/android_packages_apps_Launcher3" remote="github" revision="kk4.4" />
@@ -452,5 +450,6 @@
   <project path="packages/apps/DSPManager" name="SlimSaber/android_packages_apps_DSPManager" remote="github" revision="kk4.4" />
 
   <!-- ************** SLIMSABER ************** -->
+  <project path="device/sony/togari" name="SlimSaber-togari/android_device_sony_togari" remote="github" revision="cm-11.0"/>
 
 </manifest>

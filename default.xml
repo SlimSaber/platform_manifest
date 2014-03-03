@@ -408,7 +408,7 @@
   <project path="platform_manifest" name="SlimSaber/platform_manifest" remote="github" revision="kk4.4" />
 
   <!-- New Additions for slim -->
-  <project path="vendor/slim" name="SlimSaber/vendor_slim" remote="github" revision="kk4.4" />
+  <project path="vendor/slim" name="SlimSaber-togari/vendor_slim" remote="github" revision="kk4.4" />
   
   <!-- Slim OTA -->
   <!--

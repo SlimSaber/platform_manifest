@@ -1,4 +1,4 @@
-Getting Started
+CLONE FROM SlimSaber
 ---------------
 
 To get started with SlimKat, you'll need to get familiar with
@@ -6,7 +6,7 @@ To get started with SlimKat, you'll need to get familiar with
 
 To initialize your local repository using the SlimKat trees, use this command:
 
-	repo init -u https://github.com/SlimSaber/platform_manifest.git -b kk4.4
+	repo init -u https://github.com/SlimSaber-Togari/platform_manifest.git -b kk4.4
 
 
 Getting Source
@@ -21,14 +21,14 @@ Building SlimSaber
 ------------------
 
 	. build/envsetup.sh
-	lunch slim_i9100-userdebug
+	lunch slim_togari-userdebug
 	make -j5 bacon
 
 or
 	
-	. build.sh i9100 sync 5 clean
+	. build.sh togari sync 5 clean
 
-Parameter 1: The device tree: i9100 | n7000
+Parameter 1: The device tree: togari
 
 Parameter 2: Sync or don't sync the source: sync | nosync
 
@@ -41,5 +41,5 @@ Building SlimKernel
 ------------------
 
 	. build/envsetup.sh
-	lunch slim_i9100-userdebug
+	lunch slim_togari-userdebug
 	make -j5 bootzip

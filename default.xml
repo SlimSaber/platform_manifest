@@ -405,7 +405,7 @@
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
 
-  <project path="platform_manifest" name="SlimSaber/platform_manifest" remote="github" revision="kk4.4" />
+  <project path="platform_manifest" name="SlimSaber-togari/platform_manifest" remote="github" revision="kk4.4" />
 
   <!-- New Additions for slim -->
   <project path="vendor/slim" name="SlimSaber-togari/vendor_slim" remote="github" revision="kk4.4" />

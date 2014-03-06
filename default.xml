@@ -404,9 +404,11 @@
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
-
+  
+  <!--
   <project path="platform_manifest" name="SlimSaber-togari/platform_manifest" remote="github" revision="kk4.4" />
-
+  -->
+  
   <!-- New Additions for slim -->
   <project path="vendor/slim" name="SlimSaber-togari/vendor_slim" remote="github" revision="kk4.4" />
 
@@ -457,9 +459,10 @@
   
   <!-- togari -->
   <project path="device/sony/togari" name="SlimSaber-togari/android_device_sony_togari" remote="github" revision="cm-11.0"/>
+  <!--
   <project path="device/sony/common" name="CyanogenMod/android_device_sony_common" remote="github" revision="cm-11.0"/>
   <project path="device/sony/qcom-common" name="CyanogenMod/android_device_sony_qcom-common" remote="github" revision="cm-11.0"/>
   <project path="device/sony/rhine-common" name="CyanogenMod/android_device_sony_rhine-common" remote="github" revision="cm-11.0"/>
   <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="github" revision="cm-11.0"/>
-
+  -->
 </manifest>

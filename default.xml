@@ -457,12 +457,12 @@
 
   <!-- ************** SLIMSABER ************** -->
   
-  <!-- togari
+  <!-- togari-->
   <project path="device/sony/togari" name="SlimSaber-togari/android_device_sony_togari" remote="github" revision="kk4.4"/>
-  -->
+  <!--
   <project path="device/sony/common" name="SlimSaber-togari/android_device_sony_common" remote="github" revision="kk4.4"/>
   <project path="device/sony/qcom-common" name="SlimSaber-togari/android_device_sony_qcom-common" remote="github" revision="kk4.4"/>
   <project path="device/sony/rhine-common" name="SlimSaber-togari/android_device_sony_rhine-common" remote="github" revision="kk4.4"/>
   <project path="vendor/sony" name="SlimSaber-togari/proprietary_vendor_sony" remote="github" revision="kk4.4"/>
-  
+  -->
 </manifest>

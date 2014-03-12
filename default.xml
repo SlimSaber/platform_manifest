@@ -235,10 +235,10 @@
   <project path="external/zlib" name="SlimRoms/android_external_zlib" remote="github" revision="kk4.4" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="SlimSaber/frameworks_av" remote="github" revision="kk4.4" />
-  <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" remote="github" revision="cm-11.0" /> 
   <!--
-  <project path="frameworks/base" name="SlimSaber/frameworks_base" remote="github" revision="kk4.4" /> 
+  <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" remote="github" revision="cm-11.0" /> 
   -->
+  <project path="frameworks/base" name="SlimSaber/frameworks_base" remote="github" revision="kk4.4" /> 
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="SlimRoms/frameworks_compile_mclinker" remote="github" revision="kk4.4" />
   <project path="frameworks/compile/slang" name="SlimSaber/android_frameworks_compile_slang" remote="github" revision="kk4.4" />
@@ -285,7 +285,7 @@
   <project path="hardware/qcom/power" name="SlimRoms/hardware_qcom_power" remote="github" revision="kk4.4" />
   <project path="hardware/qcom/sensors" name="platform/hardware/qcom/sensors" groups="qcom" />
   <project path="hardware/qcom/wlan" name="SlimRoms/hardware_qcom_wlan" remote="github" revision="kk4.4" />
-  <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" remote="github" revision="cm-11.0" />
+  <project path="hardware/ril" name="LiquidSmooth/android_hardware_ril" remote="github" revision="kitkat" />
   <!--
   <project path="hardware/ril" name="SlimSaber/hardware_ril" remote="github" revision="kk4.4" />
   -->

@@ -17,7 +17,7 @@
   </project>
   <project path="abi/cpp" name="SlimSaber/platform_abi_cpp" remote="github" revision="kk4.4" />
   <project path="art" name="SlimSaber/android_art" remote="github" revision="kk4.4" />
-  <project path="bionic" name="SlimSaber/android_bionic" remote="github" revision="kk4.4" />
+  <project path="bionic" name="LiquidSmooth/android_bionic" remote="github" revision="kitkat" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="SlimSaber/bootable_recovery" remote="github" revision="kk4.4" />

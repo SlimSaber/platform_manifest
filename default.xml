@@ -282,7 +282,7 @@
   <project path="hardware/qcom/power" name="SlimRoms/hardware_qcom_power" remote="github" revision="kk4.4" />
   <project path="hardware/qcom/sensors" name="platform/hardware/qcom/sensors" groups="qcom" />
   <project path="hardware/qcom/wlan" name="SlimRoms/hardware_qcom_wlan" remote="github" revision="kk4.4" />
-  <project path="hardware/ril" name="LiquidSmooth/android_hardware_ril" remote="github" revision="kitkat" />
+  <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" remote="github" revision="cm-11.0" />
   <!--
   <project path="hardware/ril" name="SlimSaber/hardware_ril" remote="github" revision="kk4.4" />
   -->

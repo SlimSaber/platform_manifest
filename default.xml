@@ -307,7 +307,9 @@
   <project path="packages/apps/ContactsCommon" name="SlimRoms/packages_apps_ContactsCommon" remote="github" revision="kk4.4" />
   <project path="packages/apps/DeskClock" name="SlimRoms/packages_apps_DeskClock" remote="github" revision="kk4.4" />
   <project path="packages/apps/Dialer" name="SlimSaber/packages_apps_Dialer" remote="github" revision="kk4.4" />
+  <!--
   <project path="packages/apps/Email" name="SlimRoms/packages_apps_Email" remote="github" revision="kk4.4" />
+  -->
   <project path="packages/apps/Exchange" name="SlimRoms/packages_apps_Exchange" remote="github" revision="kk4.4" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
   <project path="packages/apps/Gallery2" name="SlimRoms/packages_apps_Gallery2" remote="github" revision="kk4.4" />

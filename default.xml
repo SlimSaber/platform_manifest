@@ -407,8 +407,8 @@
   <project name="SlimSaber/android_external_bluetooth_bluedroid" path="external/bluetooth/bluedroid" remote="github" revision="jb4.3" />
   <project name="CyanogenMod/android_system_bluetooth" path="system/bluetooth" remote="github" revision="cm-10.2"/>
   <project name="SlimSaber/android_packages_apps_DSPManager" path="packages/apps/DSPManager" remote="github" revision="jb4.3" />
-  <project name="CyanogenMod/android_packages_apps_Email" path="packages/apps/Email" remote="github" revision="jb4.3" />
-  <project name="CyanogenMod/android_packages_apps_Exchange" path="packages/apps/Exchange" remote="github" revision="jb4.3" />
+  <project name="CyanogenMod/android_packages_apps_Email" path="packages/apps/Email" remote="github" revision="cm-10.2" />
+  <project name="CyanogenMod/android_packages_apps_Exchange" path="packages/apps/Exchange" remote="github" revision="cm-10.2" />
 
   <!-- Custom -->
   <project path="external/libminiz" name="codefireXperiment/external_libminiz" remote="github" revision="jb-devel-mr2-release" />
